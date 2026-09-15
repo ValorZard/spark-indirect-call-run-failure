@@ -1,0 +1,10 @@
+name = "spark_indirect_call"
+description = "gnatprove models a call through an access-to-subprogram as pure"
+version = "0.1.0"
+authors = ["Srayan Jana"]
+maintainers = ["Srayan Jana <srayan.jana@outlook.com>"]
+maintainers-logins = ["ValorZard"]
+licenses = "MIT"
+
+[[depends-on]]
+gnatprove = "^16.1.0"

@@ -1,0 +1,12 @@
+/alire/
+/bin
+build
+target
+/config/
+/lib/
+/obj/
+*.ali
+__pycache__
+*.exe
+.err 
+.log
